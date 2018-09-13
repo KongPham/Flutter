@@ -3,6 +3,8 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 import './views/cell.dart';
 import './views/detailPage.dart';
+import 'package:firebase_database/firebase_database.dart';
+import 'package:firebase_core/firebase_core.dart';
 
 void main() => runApp(new ClassifiedApp());
 
@@ -43,6 +45,7 @@ class ClassifiedState extends State<ClassifiedApp>{
 
   @override
   Widget build(BuildContext context) {
+    _fetchData();
     return new MaterialApp(
         home: new Scaffold(
           appBar:  new AppBar(

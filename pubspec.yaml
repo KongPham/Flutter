@@ -21,6 +21,9 @@ dependencies:
   cupertino_icons: ^0.1.2
   http: "^0.11.3+16"
 
+  firebase_database: ^0.4.6
+  firebase_core: any
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
