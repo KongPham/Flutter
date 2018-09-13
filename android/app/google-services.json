@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "4943544523",
+    "firebase_url": "https://marine-access-131318.firebaseio.com",
+    "project_id": "marine-access-131318",
+    "storage_bucket": "marine-access-131318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4943544523:android:a4ee4bce64313548",
+        "android_client_info": {
+          "package_name": "com.example.classifiedapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4943544523-891uqngt2572jjlu6gf4b9dm2vfpil44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbIphBClLvwJV9dcX96ZduckDEqfRTpLw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
