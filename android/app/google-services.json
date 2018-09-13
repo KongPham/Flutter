@@ -1,27 +1,30 @@
 {
   "project_info": {
-    "project_number": "4943544523",
-    "firebase_url": "https://marine-access-131318.firebaseio.com",
-    "project_id": "marine-access-131318",
-    "storage_bucket": "marine-access-131318.appspot.com"
+    "project_number": "681058922395",
+    "firebase_url": "https://flutterfirebase-5e83c.firebaseio.com",
+    "project_id": "flutterfirebase-5e83c",
+    "storage_bucket": "flutterfirebase-5e83c.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:4943544523:android:a4ee4bce64313548",
+        "mobilesdk_app_id": "1:681058922395:android:8571d1565d617280",
         "android_client_info": {
-          "package_name": "com.example.classifiedapp"
+          "package_name": "com.example.flutterfirebase"
         }
       },
       "oauth_client": [
         {
-          "client_id": "4943544523-891uqngt2572jjlu6gf4b9dm2vfpil44.apps.googleusercontent.com",
+          "client_id": "681058922395-6aetac5m5pdfm9p1lvv697u6np5fsr5i.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDbIphBClLvwJV9dcX96ZduckDEqfRTpLw"
+          "current_key": "AIzaSyBVStgcN-2n_bwZbhOYE0lyK85DjerRLM8"
+        },
+        {
+          "current_key": "AIzaSyBVStgcN-2n_bwZbhOYE0lyK85DjerRLM8"
         }
       ],
       "services": {
